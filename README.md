@@ -1,3 +1,11 @@
+# Custom Eslint Plugin
+
+Code for the [Youtube video](https://www.youtube.com/watch?v=0wXWHfLXMro) on how to create your own eslint plugin
+
+
+## Commands to run
+Run below commands to install the relevenat packages
+
 ```sh
 npm i -g yo
 ```
@@ -6,6 +14,7 @@ npm i -g yo
 npm i -g generator-eslint
 ```
 
+Run below command to scaffold the eslint plugin 
 ```sh
 yo eslint:plugin
 ```
