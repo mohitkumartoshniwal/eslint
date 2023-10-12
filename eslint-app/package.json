@@ -1,0 +1,17 @@
+{
+  "name": "eslint-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "lint-fix": "eslint . --fix"
+  },
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "vite": "^4.4.5"
+  }
+}
