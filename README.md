@@ -1,6 +1,6 @@
 # Custom Eslint Plugin
 
-Code for the [Youtube video](https://www.youtube.com/watch?v=0wXWHfLXMro) on how to create your own eslint plugin
+Code for the [Youtube video](https://www.youtube.com/watch?v=H0cH4iyZsHE) on how to create your own eslint plugin
 
 
 ## Commands to run
